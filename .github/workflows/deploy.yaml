@@ -13,6 +13,6 @@ jobs:
             - run: echo "Instalando dependecias..."
             - run: echo "Ejecutando migraciones..."
             - run: echo "Creando deploy..."
-            . run: echo "Listo!"
+            - run: echo "Listo!"
 
 
