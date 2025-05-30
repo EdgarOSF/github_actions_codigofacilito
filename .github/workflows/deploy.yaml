@@ -10,5 +10,9 @@ jobs:
         steps:
             # - name: Ejecutando Tests...
             - run: echo "Ejecutando Tests..."
+            - run: echo "Instalando dependecias..."
+            - run: echo "Ejecutando migraciones..."
+            - run: echo "Creando deploy..."
+            . run: echo "Listo!"
 
 
